@@ -1,4 +1,5 @@
 # Melpo verifier Terms of Service
+[Go to Heading section](#melpo-verifier-privacy-policy)
 ## Usage Agreement
 By inviting Melpo verifier to your discord server you agree that you have read, understood, and accepted these terms. You are also responsible for informing the members in your discord server about these terms. If you do not agree with any of these terms, you are prohibited from using or adding any version of Melpo verifier to your server.
 ## Intended age
@@ -20,3 +21,4 @@ Any direct connection to Discord or any of its Trademark objects is purely coinc
 People may get in contact through e-mail at milothefurryy@gmail.com, or through the [official Support Discord](https://www.discord.gg/jjGAwwwxZz) of the Bot.
 Other ways of support may be provided but aren't guaranteed.
 
+# Melpo Verifier Privacy Policy
