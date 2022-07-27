@@ -16,7 +16,7 @@ You may opt out by Removing the bot from any Server you have the rights for.
 ## Affiliation
 The Bot is not affiliated with, supported or made by Discord Inc.
 Any direct connection to Discord or any of its Trademark objects is purely coincidental. We do not claim to have the copyright ownership of any of Discord's assets, trademarks or other intellectual property.
-##Contact
+## Contact
 People may get in contact through e-mail at milothefurryy@gmail.com, or through the [official Support Discord](https://www.discord.gg/jjGAwwwxZz) of the Bot.
 Other ways of support may be provided but aren't guaranteed.
 
