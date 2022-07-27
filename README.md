@@ -27,7 +27,8 @@ The bot may use stored data, as defined below, for different features including 
 No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
 ## Stored Information
 The bot does not store any information when being invited to a new Discord Server.
-Once you start the set-up these things can be stored:
+
+Once you start the set-up these things may be stored:
 
     For the bot to work at its minimum: 
     - Channel id of where the verifications are being sent to
