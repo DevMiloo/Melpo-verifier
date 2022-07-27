@@ -1,4 +1,5 @@
 # Melpo verifier Terms of Service
+
 ## Usage Agreement
 By inviting Melpo verifier to your discord server you agree that you have read, understood, and accepted these terms. You are also responsible for informing the members in your discord server about these terms. If you do not agree with any of these terms, you are prohibited from using or adding any version of Melpo verifier to your server.
 ## Intended age
@@ -21,3 +22,7 @@ People may get in contact through e-mail at milothefurryy@gmail.com, or through 
 Other ways of support may be provided but aren't guaranteed.
 
 # Melpo Verifier Privacy Policy
+## Usage of data
+The bot may use stored data, as defined below, for different features including but not limited to: Welcoming verified users (when enabled) and the verification of members.
+No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
+## 
