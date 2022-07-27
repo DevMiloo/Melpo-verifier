@@ -25,4 +25,38 @@ Other ways of support may be provided but aren't guaranteed.
 ## Usage of data
 The bot may use stored data, as defined below, for different features including but not limited to: Welcoming verified users (when enabled) and the verification of members.
 No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
-## 
+## Stored Information
+The bot does not store any information when being invited to a new Discord Server.
+Once you start the set-up these things can be stored:
+
+    For the bot to work at its minimum: 
+    - Channel id of where the verifications are being sent to
+    - Channel id of where the button to start the verification is.
+    - Role id of a role that gets assigned when someone gets verified
+    - Questions
+
+    All optional settings:
+    - Role id to ping with every verification
+    - Role id to auto assign role when a new user joins
+    - Channel id for the welcome message
+    - Welcome message    
+
+## Updating data
+The data may be updated when using specific commands.
+Updating data will require the input of an end user, and data that can be seen as sensitive, such as content of a message, may need to be stored when using certain commands.
+
+No other actions may update the stored information at any given time.
+## Temporarely stored information
+The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time.
+After this time period, the cached information will be dropped and only be re-added when required.
+
+Data may be dropped from cache pre-maturely through actions such as removing the bot from the Server.
+## Removal of data
+**Automatic removal**
+
+Stored Data can be removed automatically through means of removing the bot from a Server. This can be achieved by either kicking or banning the bot from the server.
+
+**Manual removal**
+
+Manual removal of the data can be done using the `&reset` command.
+Only a server administrator may use this command for manual removal of data.
