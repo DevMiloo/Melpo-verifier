@@ -21,6 +21,8 @@ Any direct connection to Discord or any of its Trademark objects is purely coinc
 People may get in contact through e-mail at milothefurryy@gmail.com, or through the [official Support Discord](https://www.discord.gg/jjGAwwwxZz) of the Bot.
 Other ways of support may be provided but aren't guaranteed.
 
+
+
 # Melpo Verifier Privacy Policy
 ## Usage of data
 The bot may use stored data, as defined below, for different features including but not limited to: Welcoming verified users (when enabled) and the verification of members.
