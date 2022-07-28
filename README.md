@@ -35,7 +35,7 @@ Once you start the set-up these things may be stored:
     - Role id of a role that gets assigned when someone gets verified
     - Questions
 
-    All optional settings:
+    optional settings:
     - Role id to ping with every verification
     - Role id to auto assign role when a new user joins
     - Channel id for the welcome message
