@@ -1,7 +1,7 @@
 # Melpo Verifier Terms of Service
 
 ## Usage Agreement
-By inviting Melpo verifier to your discord server you agree that you have read, understood, and accepted these and Discord's terms. You are also responsible for informing the members in your discord server about these terms. If you do not agree with any of these terms, you are prohibited from using or adding any version of Melpo verifier to your server.
+By inviting Melpo verifier to your discord server you agree that you have read, understood, and accepted these and [Discord's terms](https://discord.com/terms). You are also responsible for informing the members in your discord server about these terms. If you do not agree with any of these terms, you are prohibited from using or adding any version of Melpo verifier to your server.
 ## Intended age
 The bot may not be used by individuals under the minimal age described in Discord's Terms of Service. Doing so will be seen as a violation of these terms and will result in a removal of the bot from any servers you own.
 ## Terms of use
