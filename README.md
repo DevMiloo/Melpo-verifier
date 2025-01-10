@@ -56,7 +56,9 @@ Access is limited to these purposes, and data is not used for any unauthorized a
 
 ## **5. International Data Transfers**
 
-No data collected by the bot is transferred outside the EU unless Discord itself operates servers in non-EU locations. For information about Discord’s data handling practices, refer to [Discord’s Privacy Policy](https://discord.com/privacy).
+The data the bot collects is saved on servers in the United States. This, therefore, means that your data is sent outside the European Union to be processed and stored. We ensure that the processing of all data meets the relevant data protection legislation and regulations.
+
+In addition, Discord itself may operate servers in regions outside the European Union. For further details on how Discord handles data, it is recommended that you review [Discord’s Privacy Policy](https://discord.com/privacy).
 
 ## **6. Retention Period**
 
@@ -64,8 +66,8 @@ The Melpo Verifier bot retains data for specific durations based on its purpose.
 
 1.  **Server Configuration:**
     
-    -   Includes channel IDs, role IDs, and other server-specific settings.
-    -   **Retention Period:** Retained until the bot is removed from the server or the `/reset` command is executed by a server administrator.
+    -   Includes channel IDs, role IDs, verification questions, content of customisable messages.
+    -   **Retention Period:** Retained until 7 days after the bot is removed from the server or the `/reset` command is executed by a server administrator.
 2.  **Invite Logs:**
     
     -   Tracks the invite link used by a user to join the server.
@@ -77,7 +79,7 @@ The Melpo Verifier bot retains data for specific durations based on its purpose.
 4.  **Message IDs for Verifications:**
     
     -   Includes message IDs related to verification processes.
-    -   **Retention Period:** Deleted immediately after the verification process is completed.
+    -   **Retention Period:** Deleted immediately after handled application.
 5.  **Cached Data:**
     
     -   Temporarily stores server-specific and user-specific data to improve performance and minimize repeated API access.
@@ -102,7 +104,7 @@ Using the Melpo Verifier bot requires certain data to function. If this data is 
 
 The Melpo Verifier bot uses automated processes to perform certain actions, such as assigning roles and sending verification or welcome messages. These processes are based on simple, predefined server rules set by the server administrator. There is no complex profiling or decision-making involved. All actions are triggered by the configuration chosen by the server administrators and are not based on any personal characteristics or behavioral analysis.
 
-
 ## **10. Data from Third Parties**
 
-No  personal  data  is  directly  collected  by  the  bot from third-party  sources. In any case, indirectly, the bot may receive some data provided  by Discord's platform, which  includes  but is not limited to user IDs, server-related information, and other basic data that  may be required for the bot to work properly. Such  information,  as processed,  is  related  to  verification  and  management  of  server functions and has not been shared with third-party  entities.
+All information the bot processes is provided through Discord’s platform. This includes but is not limited to user IDs, server-related info (e.g., channel and role IDs), and other basic data required for the bot to function as intended. This data is used solely for verification processes and server management features.
+The bot does not collect or process data from external third-party sources outside of Discord's platform. Processed data will not be shared, either, with any third-party entities.
