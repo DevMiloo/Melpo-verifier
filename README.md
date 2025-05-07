@@ -24,7 +24,7 @@ Other ways of support may be provided but aren't guaranteed.
 
 ## **1. Identity and Contact Details**
 
-The **Melpo Verifier bot** is operated by Team Melpo. For any privacy-related questions or concerns, you can contact us at:  
+The **Melpo Verifier bot** is operated by Team Melpo. For any questions, you can contact us at:  
 **Email:** milothefurryy@gmail.com
 **Discord:** `milo_dev`
 **Discord support server:** [official Support Discord](https://www.discord.gg/jjGAwwwxZz)
@@ -50,15 +50,15 @@ We process your data based on the following legal grounds:
 
 The data is primarily processed by **Melpo Verifier** during its operation to fulfill its features. The bot does not share data with any third parties.
 
-As the system administrator, **Team Melpo** has administrative access to the stored data for maintenance, troubleshooting, or updates. Server administrators and authorized users also control how the bot interacts with the data through bot settings and commands.
+As the system administrator, **Team Melpo** has administrative access to the stored data for maintenance, troubleshooting, or updates.
 
 Access is limited to these purposes, and data is not used for any unauthorized activities.
 
 ## **5. International Data Transfers**
 
-The data the bot collects is saved on servers in the United States. This, therefore, means that your data is sent outside the European Union to be processed and stored. We ensure that the processing of all data meets the relevant data protection legislation and regulations.
+Any data the bot collects is saved on servers in Germany. We ensure that the processing of all data meets the data protection legislation and regulations.
 
-In addition, Discord itself may operate servers in regions outside the European Union. For further details on how Discord handles data, it is recommended that you review [Discord’s Privacy Policy](https://discord.com/privacy).
+In addition, Discord itself may operate servers in regions outside the European Union. For further details on how Discord handles data, see [Discord’s Privacy Policy](https://discord.com/privacy).
 
 ## **6. Retention Period**
 
@@ -87,14 +87,14 @@ The Melpo Verifier bot retains data for specific durations based on its purpose.
 
 ## **7. Your Rights**
 
-As a user, you have the following with respect to your personal data:
+As a user, you have the following rights with respect to your personal data:
 
--   **Access:** You have  the right to request an electronic copy of the personal data that is specifically associated with you, such as your verification status, messages, and any opt-out preferences you’ve set.
+-   **Access:** You have  the right to request an electronic copy of the personal data that is specifically associated with you.
 -   **Correction:** You may request that any inaccurate or incomplete data related to you is corrected.
 -   **Erasure:** You can at any time request the deletion of your data.
--   **Objection:** Under  certain  conditions,  you can object to the processing of your data.  
+-   **Objection:** Under certain conditions, you can object to the processing of your data.  
 
-To  invoke  any  of  these rights, please contact us with the information  provided  above.
+To invoke these rights, please contact us with the provided contact details mentioned above.
 
 ## **8. Mandatory Data Provision**
 
