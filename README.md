@@ -32,7 +32,7 @@ The **Melpo Verifier bot** is operated by Team Melpo. For any questions, you can
 ## **2. Purpose of Data Use**
 
 We collect and process personal data to provide the bot’s core functionalities, including:
-
+ 
 -   Verifying users within Discord servers.
 -   Welcoming verified users (if enabled).
 -   Managing automated server functions.
@@ -108,3 +108,33 @@ The Melpo Verifier bot uses automated processes to perform certain actions, such
 
 All information the bot processes is provided through Discord’s platform. This includes but is not limited to user IDs, server-related info (e.g., channel and role IDs), and other basic data required for the bot to function as intended. This data is used solely for verification processes and server management features.
 The bot does not collect or process data from external third-party sources outside of Discord's platform. Processed data will not be shared, either, with any third-party entities.
+
+# **Melpo Verifier Refund Policy**
+
+## 1. General Policy
+Melpo Verifier offers Premium and White-label subscriptions as digital services. Because access is granted immediately upon purchase, refunds are generally not provided once the service has been activated — except where required by applicable law or as outlined in this policy.
+By completing a purchase, you confirm that you have read and agree to these terms.
+
+## 2. Your Rights as an EU/EEA Consumer
+If you are located in the European Union or European Economic Area, you have a statutory 14-day right of withdrawal under EU consumer law (Directive 2011/83/EU). However, by proceeding with your purchase and gaining immediate access to the service, you expressly consent to waiving this right, as permitted under Article 16(m) of the Directive.
+If you did not receive immediate access or the service was not delivered, this waiver does not apply and you may be entitled to a full refund.
+
+## 3. Eligibility for Refunds
+Refund requests are considered on a case-by-case basis under the following conditions:
+- **Duplicate Payment:** You were billed more than once for the same subscription period due to a payment system error.
+- **Service Failure:** A confirmed bug on our end renders all paid features completely unusable for more than 48 consecutive hours, and our support team has been unable to provide a resolution or workaround.
+All eligible requests must be submitted within 7 days of the transaction date.
+
+## 4. Ineligibility
+Refunds will not be granted in the following scenarios:
+- You changed your mind or no longer need the features.
+- You forgot to cancel before your subscription renewed.
+- Your Discord server was deleted, or you were removed or banned from Discord.
+- Your access was revoked due to a violation of Melpo Verifier's Terms of Service.
+- Issues arose from incorrect configuration on your end.
+  
+## 5. Subscription Cancellations
+You can cancel your subscription at any time through the Melpo Dashboard or your Discord settings depending where you subscribed. Upon cancellation, you will continue to have access to the paid features until the end of your current billing cycle. No partial refunds are provided for remaining days in the billing cycle.
+
+## 6. How to Request a Refund
+To submit a request, please contact us via email at **milothefurryy@gmail.com** or through our [Official Support Discord](https://www.discord.gg/jjGAwwwxZz). Please include your Discord User ID, Guild ID, and proof of purchase.
